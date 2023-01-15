@@ -26,7 +26,6 @@ Here are some ideas to get you started:
  [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pedroazevedo6) 
 
 
-![Medium]()(l)
 
 
 
@@ -38,8 +37,17 @@ Previously worked on Driving assistance systems for Autonomous Vehicles on
 [__ATLASCAR2__](https://link.springer.com/chapter/10.1007/978-3-031-21065-5_25).
 
 
-![](Images/atlas.png)
-![](https://github.com/callmesora/DeepStream-YOLO-DeepSORT/raw/main/assets/deepstream-gif.gif)
+<table>
+  <tr>
+    <td>
+      <img src="Images/atlas.png" alt="Atlas Image">
+    </td>
+    <td>
+      <img src="https://github.com/callmesora/DeepStream-YOLO-DeepSORT/raw/main/assets/deepstream-gif.gif" alt="DeepStream Gif">
+    </td>
+  </tr>
+</table>
+
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
